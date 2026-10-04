@@ -1,0 +1,746 @@
+{
+  "purpose": "Read-only survey; no skills installed. Repository-level stars are not individual-skill ratings.",
+  "repositories": [
+    {
+      "requested_repo": "anthropics/skills",
+      "api_url": "https://api.github.com/repos/anthropics/skills",
+      "queried_at_utc": "2026-10-04T11:36:15.210094+00:00",
+      "full_name": "anthropics/skills",
+      "html_url": "https://github.com/anthropics/skills",
+      "stargazers_count": 179585,
+      "forks_count": 21236,
+      "pushed_at": "2026-10-03T20:38:10Z",
+      "updated_at": "2026-10-04T11:34:39Z",
+      "created_at": "2025-09-22T15:53:31Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": null,
+      "headers": {
+        "ETag": "W/\"5911fe4eb68a23f429ad48413bebd1f6c5e164f895b80011b4952f7f371e6c31\"",
+        "Last-Modified": "Sun, 04 Oct 2026 11:34:39 GMT",
+        "X-RateLimit-Remaining": "52"
+      }
+    },
+    {
+      "requested_repo": "nicobailon/visual-explainer",
+      "api_url": "https://api.github.com/repos/nicobailon/visual-explainer",
+      "queried_at_utc": "2026-10-04T11:36:15.210588+00:00",
+      "full_name": "nicobailon/visual-explainer",
+      "html_url": "https://github.com/nicobailon/visual-explainer",
+      "stargazers_count": 10239,
+      "forks_count": 666,
+      "pushed_at": "2026-10-02T22:13:45Z",
+      "updated_at": "2026-10-04T10:56:41Z",
+      "created_at": "2026-02-16T19:33:52Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"a7eab9030b0637b6f6a38f8fe8238a63926b3c1bdd7ed03efae9410a4e8abe00\"",
+        "Last-Modified": "Sun, 04 Oct 2026 10:56:41 GMT",
+        "X-RateLimit-Remaining": "55"
+      }
+    },
+    {
+      "requested_repo": "zarazhangrui/frontend-slides",
+      "api_url": "https://api.github.com/repos/zarazhangrui/frontend-slides",
+      "queried_at_utc": "2026-10-04T11:36:15.210830+00:00",
+      "full_name": "zarazhangrui/frontend-slides",
+      "html_url": "https://github.com/zarazhangrui/frontend-slides",
+      "stargazers_count": 30118,
+      "forks_count": 2350,
+      "pushed_at": "2026-06-23T20:08:19Z",
+      "updated_at": "2026-10-04T11:25:52Z",
+      "created_at": "2026-01-28T00:42:34Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"cd55c07e0bbc58445b33307d1fbcf5ffe903452a596cfc2ed94115f4e5332635\"",
+        "Last-Modified": "Sun, 04 Oct 2026 11:25:52 GMT",
+        "X-RateLimit-Remaining": "54"
+      }
+    },
+    {
+      "requested_repo": "joshuadavidthomas/agent-skills",
+      "api_url": "https://api.github.com/repos/joshuadavidthomas/agent-skills",
+      "queried_at_utc": "2026-10-04T11:36:15.211032+00:00",
+      "full_name": "joshuadavidthomas/agent-skills",
+      "html_url": "https://github.com/joshuadavidthomas/agent-skills",
+      "stargazers_count": 54,
+      "forks_count": 7,
+      "pushed_at": "2026-07-20T19:47:47Z",
+      "updated_at": "2026-09-30T08:09:30Z",
+      "created_at": "2025-12-04T22:26:48Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"842855cf4049e5f109e301418fc41a7560ccc6d0c876cef2cc7887caa894a379\"",
+        "Last-Modified": "Wed, 30 Sep 2026 08:09:30 GMT",
+        "X-RateLimit-Remaining": "53"
+      }
+    },
+    {
+      "requested_repo": "ds-vibe/html-explainer",
+      "api_url": "https://api.github.com/repos/ds-vibe/html-explainer",
+      "queried_at_utc": "2026-10-04T11:36:15.559407+00:00",
+      "full_name": "ds-vibe/html-explainer",
+      "html_url": "https://github.com/ds-vibe/html-explainer",
+      "stargazers_count": 15,
+      "forks_count": 4,
+      "pushed_at": "2026-08-12T00:14:33Z",
+      "updated_at": "2026-09-18T14:07:53Z",
+      "created_at": "2026-06-22T21:22:38Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"859313534c0ff43f6f76a538a4af0ea3af054ed29e4f69cb73e8b84d00aef807\"",
+        "Last-Modified": "Fri, 18 Sep 2026 14:07:53 GMT",
+        "X-RateLimit-Remaining": "51"
+      }
+    },
+    {
+      "requested_repo": "rlfordon/teaching-explainer",
+      "api_url": "https://api.github.com/repos/rlfordon/teaching-explainer",
+      "queried_at_utc": "2026-10-04T11:36:15.569978+00:00",
+      "full_name": "rlfordon/teaching-explainer",
+      "html_url": "https://github.com/rlfordon/teaching-explainer",
+      "stargazers_count": 6,
+      "forks_count": 1,
+      "pushed_at": "2026-07-02T02:21:34Z",
+      "updated_at": "2026-09-07T02:54:13Z",
+      "created_at": "2026-07-02T00:17:59Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"f648a7f35d3f05048c6f56d4cfdad19162a6021ef8c6e8c6bc5fbb2f2df29129\"",
+        "Last-Modified": "Mon, 07 Sep 2026 02:54:13 GMT",
+        "X-RateLimit-Remaining": "49"
+      }
+    },
+    {
+      "requested_repo": "gmchande/explorable-skills",
+      "api_url": "https://api.github.com/repos/gmchande/explorable-skills",
+      "queried_at_utc": "2026-10-04T11:36:15.570650+00:00",
+      "full_name": "gmchande/explorable-skills",
+      "html_url": "https://github.com/gmchande/explorable-skills",
+      "stargazers_count": 4,
+      "forks_count": 0,
+      "pushed_at": "2026-05-08T21:45:44Z",
+      "updated_at": "2026-08-24T16:01:13Z",
+      "created_at": "2026-04-28T16:49:24Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"4706f427fc2695aea6d038d42374bf9e3dd6a380a8119a9b48685f871d478b82\"",
+        "Last-Modified": "Mon, 24 Aug 2026 16:01:13 GMT",
+        "X-RateLimit-Remaining": "48"
+      }
+    },
+    {
+      "requested_repo": "MisterBrookT/vividoc",
+      "api_url": "https://api.github.com/repos/MisterBrookT/vividoc",
+      "queried_at_utc": "2026-10-04T11:36:15.582150+00:00",
+      "full_name": "MisterBrookT/vividoc",
+      "html_url": "https://github.com/MisterBrookT/vividoc",
+      "stargazers_count": 9,
+      "forks_count": 0,
+      "pushed_at": "2026-06-09T14:01:31Z",
+      "updated_at": "2026-09-06T22:03:30Z",
+      "created_at": "2025-12-10T11:45:36Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"abd533d689ce1a81c28671a75da2a423297dafa0342d1706659120d472dfd915\"",
+        "Last-Modified": "Sun, 06 Sep 2026 22:03:30 GMT",
+        "X-RateLimit-Remaining": "50"
+      }
+    },
+    {
+      "requested_repo": "dmccreary/ibook-skills",
+      "api_url": "https://api.github.com/repos/dmccreary/ibook-skills",
+      "queried_at_utc": "2026-10-04T11:36:15.907254+00:00",
+      "full_name": "dmccreary/ibook-skills",
+      "html_url": "https://github.com/dmccreary/ibook-skills",
+      "stargazers_count": 105,
+      "forks_count": 17,
+      "pushed_at": "2026-10-03T13:59:09Z",
+      "updated_at": "2026-10-03T13:59:12Z",
+      "created_at": "2025-11-01T14:43:36Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": null,
+      "headers": {
+        "ETag": "W/\"6c8a428a7577c08b65fd87e14a1fca3651974cf080d19fb685adc141f6e78852\"",
+        "Last-Modified": "Sat, 03 Oct 2026 13:59:12 GMT",
+        "X-RateLimit-Remaining": "47"
+      }
+    },
+    {
+      "requested_repo": "jamesrochabrun/skills",
+      "api_url": "https://api.github.com/repos/jamesrochabrun/skills",
+      "queried_at_utc": "2026-10-04T11:36:15.917336+00:00",
+      "full_name": "jamesrochabrun/skills",
+      "html_url": "https://github.com/jamesrochabrun/skills",
+      "stargazers_count": 214,
+      "forks_count": 26,
+      "pushed_at": "2026-01-14T07:21:27Z",
+      "updated_at": "2026-10-03T07:18:37Z",
+      "created_at": "2025-10-20T06:51:59Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"37320b26362972a60f31814b8cba0a34df85848b00798496c49b0f730ae19a1e\"",
+        "Last-Modified": "Sat, 03 Oct 2026 07:18:37 GMT",
+        "X-RateLimit-Remaining": "46"
+      }
+    },
+    {
+      "requested_repo": "kambleakash0/agent-skills",
+      "api_url": "https://api.github.com/repos/kambleakash0/agent-skills",
+      "queried_at_utc": "2026-10-04T11:36:15.918047+00:00",
+      "full_name": "kambleakash0/agent-skills",
+      "html_url": "https://github.com/kambleakash0/agent-skills",
+      "stargazers_count": 9,
+      "forks_count": 1,
+      "pushed_at": "2026-10-03T19:13:41Z",
+      "updated_at": "2026-10-03T19:13:44Z",
+      "created_at": "2026-03-16T23:02:55Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"74d5993feb138f90107716ba1ba1100a1f4c42d37cff2ff3343798d17c4f9642\"",
+        "Last-Modified": "Sat, 03 Oct 2026 19:13:44 GMT",
+        "X-RateLimit-Remaining": "45"
+      }
+    },
+    {
+      "requested_repo": "iAmAdheil/skills",
+      "api_url": "https://api.github.com/repos/iAmAdheil/skills",
+      "queried_at_utc": "2026-10-04T11:36:15.962538+00:00",
+      "full_name": "iAmAdheil/skills",
+      "html_url": "https://github.com/iAmAdheil/skills",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-05-26T20:13:26Z",
+      "updated_at": "2026-05-27T20:22:01Z",
+      "created_at": "2026-05-10T08:08:08Z",
+      "archived": false,
+      "default_branch": "master",
+      "license_spdx": null,
+      "headers": {
+        "ETag": "W/\"aa96ed82e65970bd50378eed5763b8f75b28025ea761aeae14c3873fcc365ab3\"",
+        "Last-Modified": "Wed, 27 May 2026 20:22:01 GMT",
+        "X-RateLimit-Remaining": "44"
+      }
+    },
+    {
+      "requested_repo": "idyll-lang/idyll",
+      "api_url": "https://api.github.com/repos/idyll-lang/idyll",
+      "queried_at_utc": "2026-10-04T11:36:16.242414+00:00",
+      "full_name": "idyll-lang/idyll",
+      "html_url": "https://github.com/idyll-lang/idyll",
+      "stargazers_count": 2041,
+      "forks_count": 88,
+      "pushed_at": "2023-02-04T08:36:05Z",
+      "updated_at": "2026-09-16T10:58:42Z",
+      "created_at": "2017-02-03T00:36:33Z",
+      "archived": false,
+      "default_branch": "master",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"043a2d5387799b47eacf914381b4671e11e68eb562c846d47c90b599ab62ebd8\"",
+        "Last-Modified": "Wed, 16 Sep 2026 10:58:42 GMT",
+        "X-RateLimit-Remaining": "43"
+      }
+    },
+    {
+      "requested_repo": "worrydream/Tangle",
+      "api_url": "https://api.github.com/repos/worrydream/Tangle",
+      "queried_at_utc": "2026-10-04T11:36:16.254746+00:00",
+      "full_name": "worrydream/Tangle",
+      "html_url": "https://github.com/worrydream/Tangle",
+      "stargazers_count": 1800,
+      "forks_count": 182,
+      "pushed_at": "2011-11-24T04:25:39Z",
+      "updated_at": "2026-09-26T11:41:08Z",
+      "created_at": "2011-06-11T18:23:07Z",
+      "archived": false,
+      "default_branch": "master",
+      "license_spdx": null,
+      "headers": {
+        "ETag": "W/\"82a9352584612cff938c24fd9dce1ef27e22dbcf3fdcafead5e60371bf49fe5a\"",
+        "Last-Modified": "Sat, 26 Sep 2026 11:41:08 GMT",
+        "X-RateLimit-Remaining": "41"
+      }
+    },
+    {
+      "requested_repo": "ncase/trust",
+      "api_url": "https://api.github.com/repos/ncase/trust",
+      "queried_at_utc": "2026-10-04T11:36:16.255343+00:00",
+      "full_name": "ncase/trust",
+      "html_url": "https://github.com/ncase/trust",
+      "stargazers_count": 6301,
+      "forks_count": 1005,
+      "pushed_at": "2025-12-29T01:00:39Z",
+      "updated_at": "2026-10-03T10:30:30Z",
+      "created_at": "2017-07-24T17:41:51Z",
+      "archived": false,
+      "default_branch": "gh-pages",
+      "license_spdx": "CC0-1.0",
+      "headers": {
+        "ETag": "W/\"9746527c55d432440131c9c1c2764dca4850e95d6067734182f4c49f66bf1ce3\"",
+        "Last-Modified": "Sat, 03 Oct 2026 10:30:30 GMT",
+        "X-RateLimit-Remaining": "42"
+      }
+    },
+    {
+      "requested_repo": "ncase/loopy",
+      "api_url": "https://api.github.com/repos/ncase/loopy",
+      "queried_at_utc": "2026-10-04T11:36:16.301650+00:00",
+      "full_name": "ncase/loopy",
+      "html_url": "https://github.com/ncase/loopy",
+      "stargazers_count": 1746,
+      "forks_count": 248,
+      "pushed_at": "2024-07-08T08:50:23Z",
+      "updated_at": "2026-10-04T04:02:18Z",
+      "created_at": "2017-02-28T19:53:20Z",
+      "archived": false,
+      "default_branch": "gh-pages",
+      "license_spdx": "CC0-1.0",
+      "headers": {
+        "ETag": "W/\"057cc0d32d11f29053ac175c2ca139b9dd8d48618dfe1b8e485ca3f3b27befa6\"",
+        "Last-Modified": "Sun, 04 Oct 2026 04:02:18 GMT",
+        "X-RateLimit-Remaining": "40"
+      }
+    },
+    {
+      "requested_repo": "clockless-org/html-anything",
+      "api_url": "https://api.github.com/repos/clockless-org/html-anything",
+      "queried_at_utc": "2026-10-04T11:42:14.386937+00:00",
+      "full_name": "clockless-org/html-anything",
+      "html_url": "https://github.com/clockless-org/html-anything",
+      "stargazers_count": 152,
+      "forks_count": 7,
+      "pushed_at": "2026-05-13T22:08:04Z",
+      "updated_at": "2026-10-04T05:20:33Z",
+      "created_at": "2026-05-09T07:27:31Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT-0",
+      "headers": {
+        "ETag": "W/\"5c4a00f65c5a3c1ee47e07edcc2d9dbca74c6446b2365acea1029bdfadd35d48\"",
+        "Last-Modified": "Sun, 04 Oct 2026 05:20:33 GMT",
+        "X-RateLimit-Remaining": "27"
+      }
+    },
+    {
+      "requested_repo": "CopilotKit/OpenGenerativeUI",
+      "api_url": "https://api.github.com/repos/CopilotKit/OpenGenerativeUI",
+      "queried_at_utc": "2026-10-04T11:42:14.373934+00:00",
+      "full_name": "CopilotKit/OpenGenerativeUI",
+      "html_url": "https://github.com/CopilotKit/OpenGenerativeUI",
+      "stargazers_count": 1584,
+      "forks_count": 205,
+      "pushed_at": "2026-06-10T23:23:43Z",
+      "updated_at": "2026-10-04T10:39:02Z",
+      "created_at": "2026-03-12T20:40:06Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"e0d20e8a05e177b6089bc9ec63a2d5de13da1e16b38a345a73183ad82368761d\"",
+        "Last-Modified": "Sun, 04 Oct 2026 10:39:02 GMT",
+        "X-RateLimit-Remaining": "28"
+      }
+    },
+    {
+      "requested_repo": "THU-MAIC/MAIC-UI",
+      "api_url": "https://api.github.com/repos/THU-MAIC/MAIC-UI",
+      "queried_at_utc": "2026-10-04T11:42:14.447441+00:00",
+      "full_name": "THU-MAIC/MAIC-UI",
+      "html_url": "https://github.com/THU-MAIC/MAIC-UI",
+      "stargazers_count": 174,
+      "forks_count": 33,
+      "pushed_at": "2026-05-06T01:42:25Z",
+      "updated_at": "2026-10-04T05:27:40Z",
+      "created_at": "2026-04-19T13:43:10Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": null,
+      "headers": {
+        "ETag": "W/\"28802c766acf45418cae8e5ea7d7fdad55e803039ecc112510fb0818f0418b00\"",
+        "Last-Modified": "Sun, 04 Oct 2026 05:27:40 GMT",
+        "X-RateLimit-Remaining": "29"
+      }
+    },
+    {
+      "requested_repo": "analyticalmonk/explain-this",
+      "api_url": "https://api.github.com/repos/analyticalmonk/explain-this",
+      "queried_at_utc": "2026-10-04T11:43:42.251463+00:00",
+      "full_name": "analyticalmonk/explain-this",
+      "html_url": "https://github.com/analyticalmonk/explain-this",
+      "stargazers_count": 20,
+      "forks_count": 1,
+      "pushed_at": "2026-07-28T11:52:24Z",
+      "updated_at": "2026-09-13T12:18:54Z",
+      "created_at": "2026-05-04T08:05:15Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"6a206808035785fd0d7a65b52d075485ce1ed326f105b8fea9fd00a0fc074d18\"",
+        "Last-Modified": "Sun, 13 Sep 2026 12:18:54 GMT",
+        "X-RateLimit-Remaining": "24"
+      }
+    },
+    {
+      "requested_repo": "pen-pal/apex",
+      "api_url": "https://api.github.com/repos/pen-pal/apex",
+      "queried_at_utc": "2026-10-04T11:43:42.260088+00:00",
+      "full_name": "pen-pal/apex",
+      "html_url": "https://github.com/pen-pal/apex",
+      "stargazers_count": 16,
+      "forks_count": 0,
+      "pushed_at": "2026-08-02T17:17:43Z",
+      "updated_at": "2026-08-16T08:20:46Z",
+      "created_at": "2026-06-23T19:03:43Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"3fe5549eabb413478b00e71b6ed06a74363134eaf9de672edab872ae474c64d5\"",
+        "Last-Modified": "Sun, 16 Aug 2026 08:20:46 GMT",
+        "X-RateLimit-Remaining": "25"
+      }
+    },
+    {
+      "requested_repo": "algorithm-visualizer/algorithm-visualizer",
+      "api_url": "https://api.github.com/repos/algorithm-visualizer/algorithm-visualizer",
+      "queried_at_utc": "2026-10-04T11:43:42.279950+00:00",
+      "full_name": "algorithm-visualizer/algorithm-visualizer",
+      "html_url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+      "stargazers_count": 48881,
+      "forks_count": 7581,
+      "pushed_at": "2024-06-09T06:54:22Z",
+      "updated_at": "2026-10-04T02:34:17Z",
+      "created_at": "2016-05-15T00:27:45Z",
+      "archived": false,
+      "default_branch": "master",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"959269f553b94260b635dae8820e14e8e927c99bbbb83d52816439bfc65f6dc7\"",
+        "Last-Modified": "Sun, 04 Oct 2026 02:34:17 GMT",
+        "X-RateLimit-Remaining": "23"
+      }
+    },
+    {
+      "requested_repo": "seeingtheory/Seeing-Theory",
+      "api_url": "https://api.github.com/repos/seeingtheory/Seeing-Theory",
+      "queried_at_utc": "2026-10-04T11:43:42.260702+00:00",
+      "full_name": "seeingtheory/Seeing-Theory",
+      "html_url": "https://github.com/seeingtheory/Seeing-Theory",
+      "stargazers_count": 2191,
+      "forks_count": 344,
+      "pushed_at": "2023-09-25T21:00:45Z",
+      "updated_at": "2026-10-02T19:56:21Z",
+      "created_at": "2017-03-12T02:59:35Z",
+      "archived": false,
+      "default_branch": "master",
+      "license_spdx": "Apache-2.0",
+      "headers": {
+        "ETag": "W/\"0ae4f2807630d33729054f8ab846633ccbbb8fd4e0439e5eda02076120473419\"",
+        "Last-Modified": "Fri, 02 Oct 2026 19:56:21 GMT",
+        "X-RateLimit-Remaining": "26"
+      }
+    },
+    {
+      "requested_repo": "sandeepkv93/distributed-systems-visualizer",
+      "api_url": "https://api.github.com/repos/sandeepkv93/distributed-systems-visualizer",
+      "queried_at_utc": "2026-10-04T11:43:42.624424+00:00",
+      "full_name": "sandeepkv93/distributed-systems-visualizer",
+      "html_url": "https://github.com/sandeepkv93/distributed-systems-visualizer",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-02-20T16:14:49Z",
+      "updated_at": "2026-02-20T16:14:55Z",
+      "created_at": "2025-12-26T03:41:33Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": null,
+      "headers": {
+        "ETag": "W/\"e00aae0f4e73a291cf963154caa25ce5148ee5cc6d4cec37451b14c29af00f1d\"",
+        "Last-Modified": "Fri, 20 Feb 2026 16:14:55 GMT",
+        "X-RateLimit-Remaining": "21"
+      }
+    },
+    {
+      "requested_repo": "schmosbyy/claude-visual-explainer",
+      "api_url": "https://api.github.com/repos/schmosbyy/claude-visual-explainer",
+      "queried_at_utc": "2026-10-04T11:43:42.583681+00:00",
+      "full_name": "schmosbyy/claude-visual-explainer",
+      "html_url": "https://github.com/schmosbyy/claude-visual-explainer",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-07-02T20:04:49Z",
+      "updated_at": "2026-07-02T20:05:28Z",
+      "created_at": "2026-07-02T20:02:23Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": null,
+      "headers": {
+        "ETag": "W/\"ed6379c6c4445a1906af683e8d4fe84b4d191595e5503e520b050fd18f01c30b\"",
+        "Last-Modified": "Thu, 02 Jul 2026 20:05:28 GMT",
+        "X-RateLimit-Remaining": "20"
+      }
+    },
+    {
+      "requested_repo": "webwriter-app/webwriter",
+      "api_url": "https://api.github.com/repos/webwriter-app/webwriter",
+      "queried_at_utc": "2026-10-04T11:43:42.662632+00:00",
+      "full_name": "webwriter-app/webwriter",
+      "html_url": "https://github.com/webwriter-app/webwriter",
+      "stargazers_count": 24,
+      "forks_count": 3,
+      "pushed_at": "2026-10-04T10:21:43Z",
+      "updated_at": "2026-07-04T08:01:08Z",
+      "created_at": "2022-06-04T13:16:50Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "NOASSERTION",
+      "headers": {
+        "ETag": "W/\"f96a2b3c49b94ea17eece15eceab8a2a2eaface22f30ba9373c4b509a1d71844\"",
+        "Last-Modified": "Sat, 04 Jul 2026 08:01:08 GMT",
+        "X-RateLimit-Remaining": "22"
+      }
+    },
+    {
+      "requested_repo": "Lumieducation/Lumi",
+      "api_url": "https://api.github.com/repos/Lumieducation/Lumi",
+      "queried_at_utc": "2026-10-04T11:51:47.375271+00:00",
+      "full_name": "Lumieducation/Lumi",
+      "html_url": "https://github.com/Lumieducation/Lumi",
+      "stargazers_count": 194,
+      "forks_count": 51,
+      "pushed_at": "2026-10-01T09:16:41Z",
+      "updated_at": "2026-10-02T09:16:35Z",
+      "created_at": "2020-01-30T14:56:38Z",
+      "archived": false,
+      "default_branch": "master",
+      "license_spdx": null,
+      "headers": {
+        "ETag": "W/\"cd3252d3c434920573898f8b4b27ef535b79095c9b8f23fb864185fdef75d119\"",
+        "Last-Modified": "Fri, 02 Oct 2026 09:16:35 GMT",
+        "X-RateLimit-Remaining": "3"
+      }
+    },
+    {
+      "requested_repo": "tunapanda/h5p-standalone",
+      "api_url": "https://api.github.com/repos/tunapanda/h5p-standalone",
+      "queried_at_utc": "2026-10-04T11:51:47.375795+00:00",
+      "full_name": "tunapanda/h5p-standalone",
+      "html_url": "https://github.com/tunapanda/h5p-standalone",
+      "stargazers_count": 346,
+      "forks_count": 148,
+      "pushed_at": "2026-03-24T19:32:43Z",
+      "updated_at": "2026-09-28T11:58:06Z",
+      "created_at": "2015-10-29T16:36:14Z",
+      "archived": false,
+      "default_branch": "master",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"db3180d8d92805c7e4ff4de34d905babeaef6ee3253be66b1e4c7fbb6e0959cd\"",
+        "Last-Modified": "Mon, 28 Sep 2026 11:58:06 GMT",
+        "X-RateLimit-Remaining": "5"
+      }
+    },
+    {
+      "requested_repo": "quarto-dev/quarto-cli",
+      "api_url": "https://api.github.com/repos/quarto-dev/quarto-cli",
+      "queried_at_utc": "2026-10-04T11:51:47.376080+00:00",
+      "full_name": "quarto-dev/quarto-cli",
+      "html_url": "https://github.com/quarto-dev/quarto-cli",
+      "stargazers_count": 6051,
+      "forks_count": 462,
+      "pushed_at": "2026-10-03T16:45:30Z",
+      "updated_at": "2026-10-03T22:46:27Z",
+      "created_at": "2020-09-25T13:25:46Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "NOASSERTION",
+      "headers": {
+        "ETag": "W/\"3f0c5759d663247a78e7449ea9b949ee22a35a4ddb8f681421625d500c466e6d\"",
+        "Last-Modified": "Sat, 03 Oct 2026 22:46:27 GMT",
+        "X-RateLimit-Remaining": "4"
+      }
+    },
+    {
+      "requested_repo": "jupyter-book/mystmd",
+      "api_url": "https://api.github.com/repos/jupyter-book/mystmd",
+      "queried_at_utc": "2026-10-04T11:51:47.376345+00:00",
+      "full_name": "jupyter-book/mystmd",
+      "html_url": "https://github.com/jupyter-book/mystmd",
+      "stargazers_count": 525,
+      "forks_count": 180,
+      "pushed_at": "2026-09-28T17:17:45Z",
+      "updated_at": "2026-09-28T17:15:07Z",
+      "created_at": "2020-07-21T22:02:07Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"c7c24273e8cac6a4d0181ccc604aa96a8c5b0060ca0c15f13aa7e39949ed22bd\"",
+        "Last-Modified": "Mon, 28 Sep 2026 17:15:07 GMT",
+        "X-RateLimit-Remaining": "6"
+      }
+    },
+    {
+      "requested_repo": "slidevjs/slidev",
+      "api_url": "https://api.github.com/repos/slidevjs/slidev",
+      "queried_at_utc": "2026-10-04T11:51:47.747798+00:00",
+      "full_name": "slidevjs/slidev",
+      "html_url": "https://github.com/slidevjs/slidev",
+      "stargazers_count": 48921,
+      "forks_count": 2209,
+      "pushed_at": "2026-10-02T07:30:24Z",
+      "updated_at": "2026-10-04T10:21:36Z",
+      "created_at": "2021-04-24T01:25:23Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"3eed34ba08845e8ef21f916ab969cd838c081d7b4e9513c9eafdc3802403a374\"",
+        "Last-Modified": "Sun, 04 Oct 2026 10:21:36 GMT",
+        "X-RateLimit-Remaining": "2"
+      }
+    },
+    {
+      "requested_repo": "hakimel/reveal.js",
+      "api_url": "https://api.github.com/repos/hakimel/reveal.js",
+      "queried_at_utc": "2026-10-04T11:51:47.758339+00:00",
+      "full_name": "hakimel/reveal.js",
+      "html_url": "https://github.com/hakimel/reveal.js",
+      "stargazers_count": 72376,
+      "forks_count": 17021,
+      "pushed_at": "2026-09-30T19:38:13Z",
+      "updated_at": "2026-10-04T11:14:00Z",
+      "created_at": "2011-06-07T18:54:22Z",
+      "archived": false,
+      "default_branch": "master",
+      "license_spdx": "MIT",
+      "headers": {
+        "ETag": "W/\"84cb42874700f82bc77909b740328244b37ab448d0b0bb67c9c4882d4e05800b\"",
+        "Last-Modified": "Sun, 04 Oct 2026 11:14:00 GMT",
+        "X-RateLimit-Remaining": "1"
+      }
+    },
+    {
+      "requested_repo": "observablehq/framework",
+      "api_url": "https://api.github.com/repos/observablehq/framework",
+      "queried_at_utc": "2026-10-04T11:51:47.764535+00:00",
+      "full_name": "observablehq/framework",
+      "html_url": "https://github.com/observablehq/framework",
+      "stargazers_count": 3657,
+      "forks_count": 205,
+      "pushed_at": "2026-05-15T21:33:09Z",
+      "updated_at": "2026-10-04T05:57:59Z",
+      "created_at": "2023-09-27T21:06:30Z",
+      "archived": false,
+      "default_branch": "main",
+      "license_spdx": "ISC",
+      "headers": {
+        "ETag": "W/\"2163c10f740db42a771767771851aa3c4ce473e9f1b8edbd62929df6b471304f\"",
+        "Last-Modified": "Sun, 04 Oct 2026 05:57:59 GMT",
+        "X-RateLimit-Remaining": "0"
+      }
+    },
+    {
+      "requested_repo": "russellsamora/scrollama",
+      "api_url": "https://api.github.com/repos/russellsamora/scrollama",
+      "html_url": "https://github.com/russellsamora/scrollama",
+      "queried_at_utc": "2026-10-04T11:48:12Z",
+      "stargazers_count": 6002,
+      "default_branch": "main",
+      "updated_as_reported": "2025-11-13T14:13:24Z",
+      "retention_note": "The original tool call retained these parsed fields, not the complete GitHub JSON payload."
+    },
+    {
+      "requested_repo": "uwdata/living-papers",
+      "api_url": "https://api.github.com/repos/uwdata/living-papers",
+      "html_url": "https://github.com/uwdata/living-papers",
+      "queried_at_utc": "2026-10-04T11:48:12Z",
+      "stargazers_count": 161,
+      "default_branch": "main",
+      "updated_as_reported": "2025-12-28T08:29:07Z",
+      "retention_note": "The original tool call retained these parsed fields, not the complete GitHub JSON payload."
+    },
+    {
+      "requested_repo": "motion-canvas/motion-canvas",
+      "api_url": "https://api.github.com/repos/motion-canvas/motion-canvas",
+      "html_url": "https://github.com/motion-canvas/motion-canvas",
+      "queried_at_utc": "2026-10-04T11:48:12Z",
+      "stargazers_count": 19228,
+      "default_branch": "main",
+      "updated_as_reported": "2026-07-02T20:01:32Z",
+      "retention_note": "The original tool call retained these parsed fields, not the complete GitHub JSON payload."
+    },
+    {
+      "requested_repo": "HarleyCoops/Math-To-Manim",
+      "api_url": "https://api.github.com/repos/HarleyCoops/Math-To-Manim",
+      "html_url": "https://github.com/HarleyCoops/Math-To-Manim",
+      "queried_at_utc": "2026-10-04T11:48:12Z",
+      "stargazers_count": 2693,
+      "default_branch": "main",
+      "updated_as_reported": "2026-10-02T04:55:59Z",
+      "retention_note": "The original tool call retained these parsed fields, not the complete GitHub JSON payload."
+    }
+  ],
+  "retry_errors": [
+    {
+      "requested_repo": "russellsamora/scrollama",
+      "api_url": "https://api.github.com/repos/russellsamora/scrollama",
+      "queried_at_utc": "2026-10-04T11:51:47.799208+00:00",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "requested_repo": "uwdata/living-papers",
+      "api_url": "https://api.github.com/repos/uwdata/living-papers",
+      "queried_at_utc": "2026-10-04T11:51:47.909949+00:00",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "requested_repo": "motion-canvas/motion-canvas",
+      "api_url": "https://api.github.com/repos/motion-canvas/motion-canvas",
+      "queried_at_utc": "2026-10-04T11:51:48.028989+00:00",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "requested_repo": "HarleyCoops/Math-To-Manim",
+      "api_url": "https://api.github.com/repos/HarleyCoops/Math-To-Manim",
+      "queried_at_utc": "2026-10-04T11:51:48.087737+00:00",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "requested_repo": "idyll-lang/fidyll",
+      "api_url": "https://api.github.com/repos/idyll-lang/fidyll",
+      "queried_at_utc": "2026-10-04T11:51:48.093668+00:00",
+      "error": "HTTP Error 403: rate limit exceeded"
+    }
+  ],
+  "page_observations": [
+    {
+      "requested_repo": "idyll-lang/fidyll",
+      "html_url": "https://github.com/idyll-lang/fidyll",
+      "checked_at_utc": "2026-10-04T11:55:07.541320+00:00",
+      "stargazers_count": 10,
+      "source_type": "Official GitHub page via web browsing; API retry failed."
+    }
+  ]
+}

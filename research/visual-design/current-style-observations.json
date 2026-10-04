@@ -1,0 +1,77 @@
+{
+  "observed_at_utc": "2026-10-04T12:49:50.065720+00:00",
+  "file": "lessons/aws/ipv4-bits-cidr/index.html",
+  "sha256": "cc89d4f54b6297f5d6220bad1520f3b4cb3db9932040bd6689b348baffb0437d",
+  "method": "Read local CSS variables; sRGB relative luminance calculation per WCAG. No browser rendering audit or general accessibility conformance claim.",
+  "root_color_variables": {
+    "--bg": "#f3f2ed",
+    "--ink": "#18352f",
+    "--muted": "#596c66",
+    "--green": "#17664f",
+    "--pale": "#dceae2",
+    "--orange": "#a44916",
+    "--peach": "#fff0df",
+    "--line": "#d5ded6"
+  },
+  "pairs": [
+    {
+      "role": "正文／頁面背景",
+      "foreground": "#18352f",
+      "background": "#f3f2ed",
+      "ratio": 11.78929140011632,
+      "display_ratio": "11.79:1",
+      "normal_text_threshold": 4.5,
+      "passes_normal_text_pair_only": true
+    },
+    {
+      "role": "輔助文字／頁面背景",
+      "foreground": "#596c66",
+      "background": "#f3f2ed",
+      "ratio": 4.980432582148492,
+      "display_ratio": "4.98:1",
+      "normal_text_threshold": 4.5,
+      "passes_normal_text_pair_only": true
+    },
+    {
+      "role": "固定前綴文字／淺綠底",
+      "foreground": "#17664f",
+      "background": "#dceae2",
+      "ratio": 5.544624107449562,
+      "display_ratio": "5.54:1",
+      "normal_text_threshold": 4.5,
+      "passes_normal_text_pair_only": true
+    },
+    {
+      "role": "可變部分文字／淺橘底",
+      "foreground": "#a44916",
+      "background": "#fff0df",
+      "ratio": 5.300880180084209,
+      "display_ratio": "5.30:1",
+      "normal_text_threshold": 4.5,
+      "passes_normal_text_pair_only": true
+    },
+    {
+      "role": "主要按鈕文字／按鈕底色",
+      "foreground": "#ffffff",
+      "background": "#17664f",
+      "ratio": 6.8855105338867455,
+      "display_ratio": "6.89:1",
+      "normal_text_threshold": 4.5,
+      "passes_normal_text_pair_only": true
+    },
+    {
+      "role": "綠色文字／白底（色值配對）",
+      "foreground": "#17664f",
+      "background": "#ffffff",
+      "ratio": 6.8855105338867455,
+      "display_ratio": "6.89:1",
+      "normal_text_threshold": 4.5,
+      "passes_normal_text_pair_only": true
+    }
+  ],
+  "scope_limits": [
+    "Only six opaque solid-color foreground/background pairs.",
+    "Does not assess font size, gradients, transparency, overlays, disabled controls, focus, responsive layouts or actual rendered elements.",
+    "Subjective audience feelings and AI default-palette prevalence are not measured."
+  ]
+}
